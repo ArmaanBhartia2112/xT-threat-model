@@ -1,0 +1,10 @@
+statsbombpy>=1.14.0
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+pyarrow>=15.0.0
+fastapi>=0.115.0
+uvicorn>=0.30.0
+pydantic>=2.8.0
+scipy>=1.13.0
