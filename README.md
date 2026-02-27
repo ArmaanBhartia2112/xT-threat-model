@@ -4,6 +4,11 @@ End-to-end football analytics system that computes action-level expected threat 
 1. Zone-based Markov chain xT surface (16x12 grid, 192 zones)
 2. XGBoost shot-likelihood delta model
 
+## Live Demo
+
+https://github.com/user-attachments/assets/2497a283-6e93-44f8-862e-1fe93f70470f
+
+
 Final action xT is:
 
 `0.5 * (zone_xT_end - zone_xT_start) + 0.5 * (shot_prob_end - shot_prob_start)`
