@@ -6,7 +6,11 @@ End-to-end football analytics system that computes action-level expected threat 
 
 ## Live Demo
 
-https://github.com/user-attachments/assets/2497a283-6e93-44f8-862e-1fe93f70470f
+
+
+https://github.com/user-attachments/assets/2e1ab70d-eb22-4b80-83a2-8b3583f0b759
+
+
 
 
 Final action xT is:
